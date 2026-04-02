@@ -1,4 +1,4 @@
-
+upd Scripts for escape running head - auto-escape and inf-stam is your go-to resource for escape running head domination. Featuring auto-escape and inf-stam, our scripts are engineered to maximize your efficiency and enjoyment. Say goodbye to tedious grinding and hello to effortless victories.
 
 
 ---
